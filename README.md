@@ -3,7 +3,7 @@
 
 <ol>
     <li> Completed class: PROGRAMMING FOUNDATIONS ✓ </li>
-    <li> ******Current class: FRONT-END TECHNOLOGIES ****** </li>
-    <li> UPCOMING CLASSES </li>
-    <li> UPCOMING CLASSES </li>
+    <li> Completed class: FRONT-END TECHNOLOGIES ✓   </li>
+    <li> Completed class: PROGRAMMING WITH OBJECTS ✓  </li>
+    <li> ******Current class: PROJECT METHODOLOGY ****** </li>
 </ol>
